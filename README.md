@@ -4,10 +4,13 @@ I have completed all the assignments in all weeks and made neccary additions whe
 * Added Gaussian based factor in traing of layer so that i introduce a componnent of number of letters in names which was missed in training since we were combining all the data.
 * Made a minecraft block pallete generator allowing which predicted multiple outputs given one input and trained on unordered sets.
 ## Week3
-*Changed the structure of the training and also some hypervariables to get better loss. 
-*Implemented eliptical based gradient function.
-*Implemented a scalled down linear connect between the layers to provide another factor which doesn't have to be trained very much and will not give good results on its own or if it is overpowering the
+* Changed the structure of the training and also some hypervariables to get better loss. 
+* Implemented eliptical based gradient function.
+* Implemented a scalled down linear connect between the layers to provide another factor which doesn't have to be trained very much and will not give good results on its own or if it is overpowering the
 non linear result but does improve the loss slighly.
+
+
+
 ### Architecting LLMs: Building a GPT from Scratch
 
 Most modern AI engineers use Large Language Models, but few understand the exact machinery that makes them work. This mentorship track guides you to **build a functional GPT from first principles** starting with a blank Python file and ending with a working generative model.
