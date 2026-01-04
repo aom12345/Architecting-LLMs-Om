@@ -1,4 +1,4 @@
-### Midterm Submission
+# Midterm Submission
 I have completed all the assignments in all weeks and made neccary additions where ever i thought it would be interesting or helpful
 ## Week2
 * Added Gaussian based factor in traing of layer so that i introduce a componnent of number of letters in names which was missed in training since we were combining all the data.
