@@ -1,9 +1,9 @@
 ### Midterm Submission
 I have completed all the assignments in all weeks and made neccary additions where ever i thought it would be interesting or helpful
-# Week2
+## Week2
 * Added Gaussian based factor in traing of layer so that i introduce a componnent of number of letters in names which was missed in training since we were combining all the data.
 * Made a minecraft block pallete generator allowing which predicted multiple outputs given one input and trained on unordered sets.
-# Week3
+## Week3
 *Changed the structure of the training and also some hypervariables to get better loss. 
 *Implemented eliptical based gradient function.
 *Implemented a scalled down linear connect between the layers to provide another factor which doesn't have to be trained very much and will not give good results on its own or if it is overpowering the
